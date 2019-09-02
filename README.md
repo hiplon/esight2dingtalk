@@ -9,3 +9,5 @@ requirement flask requests
 pip install flask requests 
 ```
 
+att: config in esight using HTTPS SMS Server
+![att](https://github.com/hiplon/esight2dingtalk/blob/master/20190902193343.png?raw=true)
